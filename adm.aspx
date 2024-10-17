@@ -15,7 +15,7 @@
                 <Columns>
                     <asp:CommandField ShowSelectButton="True" ButtonType="Button" />
                     <asp:BoundField DataField="Código" HeaderText="Código" InsertVisible="False" ReadOnly="True" SortExpression="Código" />
-                    <asp:BoundField DataField="Nome" HeaderText="Nome" SortExpression="Nome" />
+                    <asp:BoundField DataField="Email" HeaderText="Email" SortExpression="Email" />
                     <asp:BoundField DataField="Idade" HeaderText="Idade" SortExpression="Idade" />
                 </Columns>
                 <EditRowStyle BackColor="#999999" />
